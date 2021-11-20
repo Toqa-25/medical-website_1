@@ -1,0 +1,1 @@
+let itemsArray = document.q

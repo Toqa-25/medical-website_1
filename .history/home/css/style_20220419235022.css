@@ -4,7 +4,6 @@
 :root{
     /* --main-color:#1d3344; */
     --main-color:#4c6593;
-    --main-color:#1c2a43;
 }
 html{
     scroll-behavior: smooth;
@@ -564,13 +563,13 @@ textarea.in_put {
     color:red;
 } */
 .appoint-btn {
-    min-width: 130px;
+    width: 130px;
     border: none;
     padding: 15px;
     outline: none;
     border-radius: 50px;
     background-color: var(--main-color);
-    min-height: 40px;
+    height: 40px;
     color: #fff;
     font-size: 18px;
         margin: auto;
@@ -584,9 +583,6 @@ textarea.in_put {
     -moz-transition: .2s;
     -ms-transition: .2s;
     -o-transition: .2s;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 .appoint-btn:hover{
     transform: scale(1.1);
@@ -626,9 +622,7 @@ form{
     }
 }
 /* *************************************** */
-.team-content {
-    color: var(--main-color);
-}
+
 /* 
 media quary style
 ***************************************

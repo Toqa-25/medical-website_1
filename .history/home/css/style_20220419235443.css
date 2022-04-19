@@ -4,7 +4,6 @@
 :root{
     /* --main-color:#1d3344; */
     --main-color:#4c6593;
-    --main-color:#1c2a43;
 }
 html{
     scroll-behavior: smooth;
@@ -626,9 +625,7 @@ form{
     }
 }
 /* *************************************** */
-.team-content {
-    color: var(--main-color);
-}
+
 /* 
 media quary style
 ***************************************

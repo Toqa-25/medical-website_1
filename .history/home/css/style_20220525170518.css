@@ -198,8 +198,8 @@ header{
 .nav-list .active a , .nav-list .list-item:hover a  {
     color: #6697f3;
 }
-.nav-list .list-item:before {
-    background-color: #6697f3;
+.nav-list .list-item:hover {
+    border-bottom: 3px solid #6697f3;
 }
 .bottom-head{
     width:100%;

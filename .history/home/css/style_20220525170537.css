@@ -199,7 +199,7 @@ header{
     color: #6697f3;
 }
 .nav-list .list-item:before {
-    background-color: #6697f3;
+    border-bottom: 3px solid #6697f3;
 }
 .bottom-head{
     width:100%;

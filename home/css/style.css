@@ -258,13 +258,13 @@ header{
     background-color: #3e3e3ecc;
     padding: 15px;
     margin-top: -32px;
-    /* width: 125%; */
+    transition: 1s;
     border-radius: 11px;
-   transform: translatex(-100%);
-   -moz-transform: translatex(-100%);
-   -ms-transform: translatex(-100%);
-   -webkit-transform: translatex(-100%);
-   -o-transform: translatex(-100%);
+   transform: translatex(-1000%);
+   -moz-transform: translatex(-1000%);
+   -ms-transform: translatex(-1000%);
+   -webkit-transform: translatex(-1000%);
+   -o-transform: translatex(-1000%);
 }
 .nav-bar-show{
    transform: translatex(0);
